@@ -1,0 +1,31 @@
+Emp_ID,Name,Department,Join_Date,Salary,Score,City
+101,Amit Sharma,IT,2022-01-15,85000.0,8.5,Delhi
+102,Priya Rao,HR,2023-03-22,60000.0,,Mumbai
+103,Vijay Kumar,Finance,2021-11-05,95000.0,9.2,Bangalore
+104,Rohan Das,it,2024-05-10,72000.0,7.0,Delhi
+105,Ananya Singh,Marketing,2022-08-19,,6.8,Noida
+106,Suresh Raina,Finance,2020-02-01,98000.0,9.5,Bangalore
+107,Megha Gupta,HR,2023-07-12,62000.0,7.8,Mumbai
+108,Rahul Verma,IT,2019-12-25,110000.0,9.9,Delhi
+109,Kriti Malhotra,Marketing,2025-01-10,58000.0,,Noida
+110,Nitin Malhotra,IT,2024-04-15,72000.0,8.0,Delhi
+111,Rajesh Patel,Finance,2021-06-18,105000.0,8.9,Mumbai
+112,Sunita Williams,HR,2022-09-05,64000.0,7.2,Bangalore
+113,Vikram Malhotra,IT,2023-11-20,88000.0,8.3,Noida
+114,Neha Dhupia,Marketing,2024-02-14,53000.0,6.1,Delhi
+115,Alok Nath,Finance,2020-07-29,115000.0,,Mumbai
+116,Deepika Padukone,HR,2023-01-01,61000.0,7.5,Bangalore
+117,Ranveer Singh,Marketing,2022-05-12,67000.0,8.1,Noida
+118,Siddharth Malhotra,it,2024-08-22,71000.0,7.4,Delhi
+119,Kiara Advani,Finance,2021-03-30,92000.0,9.0,Mumbai
+120,Varun Dhawan,HR,2025-02-17,59000.0,6.5,Bangalore
+121,Alia Bhatt,IT,2022-10-10,94000.0,8.8,Noida
+122,Ranbir Kapoor,Marketing,2023-04-05,73000.0,7.9,Delhi
+123,Katrina Kaif,Finance,2019-05-14,125000.0,9.7,Mumbai
+124,Vicky Kaushal,HR,2024-06-01,63000.0,7.1,Bangalore
+125,Ayushmann Khurrana,IT,2023-08-15,82000.0,8.2,Noida
+126,Kriti Sanon,Marketing,2021-12-20,70000.0,8.4,Delhi
+127,Kartik Aaryan,Finance,2020-10-11,102000.0,8.6,Mumbai
+128,Sara Ali Khan,HR,2022-11-03,65000.0,,Bangalore
+129,Janhvi Kapoor,IT,2025-03-01,69000.0,7.0,Noida
+130,Pankaj Tripathi,Marketing,2018-09-15,140000.0,9.8,Delhi
