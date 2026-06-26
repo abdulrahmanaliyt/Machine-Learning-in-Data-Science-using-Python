@@ -1,0 +1,86 @@
+Here is a categorized reference list of the most commonly used, essential operations available in pandas for data analysis:
+
+1. Data Loading & Exporting
+Operations used to read and write data between Python and external file formats.
+
+pd.read_csv() / df.to_csv() — Reads / writes Comma-Separated Values files.
+
+pd.read_excel() / df.to_excel() — Reads / writes Excel worksheets (.xlsx, .xls).
+
+pd.read_json() / df.to_json() — Reads / writes JSON strings or files.
+
+pd.read_sql() — Reads data from a SQL database query or table.
+
+2. Data Inspection & Viewing
+Quickly viewing structural properties and summaries of your dataset.
+
+df.head(n) / df.tail(n) — Returns the first or last n rows.
+
+df.info() — Displays data types, memory usage, and non-null item counts.
+
+df.describe() — Generates summary statistics (mean, min, max, etc.) for numeric columns.
+
+df.shape — Attribute returning a tuple representing rows and columns (rows, columns).
+
+df.columns / df.index — Accesses column headers and row labels.
+
+3. Selection, Slicing & Filtering
+Extracting specific subsets of data based on positions, labels, or logic conditions.
+
+df.loc[] — Label-based selection for rows and columns.
+
+df.iloc[] — Integer position-based selection for indexing rows and columns.
+
+df[df['column'] > value] — Boolean indexing to filter rows matching a specific condition.
+
+df.isin() — Filters rows checking if values exist within a specified list.
+
+df.query() — Filters data using an inline string expression layout.
+
+4. Data Cleaning & Handling Missing Values
+Detecting, modifying, or dropping faulty or missing markers (NaN) in datasets.
+
+df.isnull() / df.isna() — Generates a boolean mask highlighting missing values.
+
+df.dropna() — Drops rows or columns containing missing items.
+
+df.fillna(value) — Replaces missing values with a designated scalar, mean, or median.
+
+df.drop_duplicates() — Removes duplicate rows from the DataFrame.
+
+df.rename() — Changes row indexes or column header labels.
+
+df.astype() — Casts a pandas object to a specified data type (e.g., float to int).
+
+5. Structural Manipulation & Transformation
+Reshaping your data frames by adding columns, sorting, or altering alignment.
+
+df.sort_values(by='col') — Sorts rows by the values of a given column.
+
+df.sort_index() — Sorts the DataFrame layout by its row index.
+
+df.drop() — Deletes specified columns or rows from the DataFrame layout.
+
+df.apply() — Applies a custom or lambda function along an axis (rows or columns).
+
+df.map() — Substitutes each value of a Series with another value based on dictionary mapping.
+
+6. Aggregation & Grouping
+Splitting data into groups and calculating summary indicators.
+
+df.groupby() — Splits data into groups based on specified criteria.
+
+df.agg() — Applies multiple aggregation operations (like sum, mean, max) simultaneously.
+
+df.value_counts() — Counts unique values in a Series column.
+
+df.groupby('col').mean() — Computes the arithmetic mean of groups.
+
+7. Merging, Joining & Combining
+Aligning and combining separate DataFrames together horizontally or vertically.
+
+pd.concat([df1, df2]) — Stacks DataFrames together along an axis (row-wise or column-wise).
+
+pd.merge(df1, df2, on='key') — Merges two DataFrames using database-style join logic on a key column.
+
+df.join() — Combines two DataFrames based on their structural index names.
