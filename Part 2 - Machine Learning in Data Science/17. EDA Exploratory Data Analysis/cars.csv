@@ -1,0 +1,430 @@
+Make,Model,Type,Origin,DriveTrain,MSRP,Invoice,EngineSize,Cylinders,Horsepower,MPG_City,MPG_Highway,Weight,Wheelbase,Length
+Toyota,Prius 4dr,SUV,USA,All,"$72,744","$65,390",5.4,8,362,14,22,6163,124,184
+Chevrolet,Corvette 2dr,Sedan,Asia,All,"$47,687","$43,258",2.3,4,183,30,36,3725,113,181
+Nissan,350Z coupe 2dr,Sedan,Europe,Front,"$68,933","$61,915",5.1,8,373,17,22,5995,128,187
+Ford,Focus ZX3 2dr,Sedan,USA,Rear,"$61,671","$55,949",4.1,8,305,21,29,4879,120,190
+Toyota,RAV4,Truck,USA,Rear,"$52,780","$47,369",4.1,8,265,20,28,4990,116,179
+Volkswagen,Jetta GL 4dr,Sports,USA,Rear,"$51,275","$44,972",3.3,6,226,27,32,4164,115,185
+BMW,745Li 4dr,Sedan,USA,Front,"$62,078","$55,355",3.8,6,313,21,29,4987,120,189
+Toyota,Land Cruiser,SUV,Europe,All,"$52,213","$46,263",3.3,6,222,27,33,4057,115,186
+Nissan,Altima 2.5 S,Sedan,USA,Front,"$61,937","$56,025",4.0,8,273,24,32,5286,124,186
+Ford,Taurus SE,SUV,USA,All,"$77,924","$68,856",4.4,8,361,17,24,5541,121,184
+Chevrolet,Tahoe,Sedan,Asia,All,"$61,818","$54,869",4.6,8,320,17,26,5699,121,187
+Nissan,350Z coupe 2dr,Truck,USA,Front,"$56,492","$51,906",3.9,6,280,20,26,4863,122,185
+Nissan,Pathfinder,Sedan,Europe,All,"$76,701","$68,478",4.8,8,374,19,26,5318,122,187
+BMW,530i 4dr,Sedan,Europe,All,"$45,719","$41,640",2.2,4,231,30,35,4326,116,179
+Honda,Element DX,Sedan,Europe,Rear,"$57,282","$50,412",2.5,6,229,27,33,3982,111,178
+Ford,Explorer,Sedan,Europe,All,"$63,949","$57,622",5.2,8,318,17,26,6000,123,190
+Audi,A4 3.0 Quattro,Sedan,USA,Front,"$61,236","$53,266",3.0,6,246,27,36,4643,116,181
+Nissan,Altima 2.5 S,Truck,USA,Front,"$33,099","$30,465",1.7,4,149,31,36,3285,112,188
+Honda,Civic DX 2dr,Sedan,Europe,All,"$54,247","$47,811",2.3,4,212,30,35,4048,112,179
+Audi,A4 3.0 4dr,Hybrid,Europe,Rear,"$59,486","$52,776",2.6,6,261,24,30,4236,112,179
+Ford,Focus ZX3 2dr,Truck,USA,Rear,"$71,436","$63,010",5.8,8,381,16,24,5942,128,189
+Acura,TL 4dr,Sedan,Europe,All,"$66,785","$60,630",4.1,8,314,20,25,5283,122,190
+Volkswagen,Passat GLS 4dr,SUV,Asia,All,"$82,786","$74,285",5.7,8,418,15,23,6538,126,183
+Honda,Pilot EX,SUV,Europe,Front,"$68,112","$59,971",4.1,8,324,22,29,4961,116,189
+Mercedes-Benz,C240 4dr,SUV,Europe,All,"$55,859","$50,954",3.7,6,246,22,31,4226,117,183
+Acura,TL 4dr,SUV,Asia,Rear,"$41,813","$38,157",3.0,6,201,26,34,4026,111,179
+Volkswagen,Passat GLS 4dr,Sports,Asia,All,"$58,377","$52,189",4.3,8,271,21,30,5092,119,185
+BMW,325Ci 2dr,SUV,USA,Front,"$56,802","$50,869",2.2,4,239,29,37,4144,111,185
+Toyota,RAV4,Sedan,USA,Front,"$64,782","$58,906",5.6,8,332,17,24,5724,123,190
+Chevrolet,Malibu 4dr,Wagon,Asia,Front,"$65,865","$59,831",5.2,8,312,16,21,5551,124,185
+Mercedes-Benz,E320 4dr,SUV,Asia,Front,"$54,991","$50,017",3.0,6,226,26,33,4147,113,182
+BMW,330i 4dr,Wagon,USA,Front,"$79,604","$70,198",5.8,8,379,14,19,6395,131,187
+Ford,Mustang 2dr,Sedan,Europe,All,"$71,945","$63,916",5.2,8,342,17,22,6254,128,185
+BMW,745Li 4dr,SUV,Asia,All,"$72,807","$63,963",4.5,8,366,17,26,5211,122,185
+Toyota,Land Cruiser,Sports,USA,All,"$46,451","$40,453",2.1,4,155,31,38,3588,110,186
+Ford,Explorer,Sedan,Europe,All,"$56,683","$50,920",3.7,6,242,25,33,4657,115,186
+Mercedes-Benz,E320 4dr,Truck,Asia,Front,"$56,172","$51,788",3.8,6,271,21,28,4799,118,187
+Toyota,Land Cruiser,Sports,Europe,Rear,"$53,232","$49,136",2.6,6,227,26,35,4619,114,186
+Audi,A41.8T converti,Wagon,USA,All,"$35,170","$31,953",2.0,4,153,31,36,3795,114,186
+Chevrolet,Corvette 2dr,Sedan,Asia,Rear,"$82,425","$71,970",5.0,8,393,19,28,6153,126,188
+Mercedes-Benz,C230 Sport 2dr,Sedan,Europe,All,"$46,531","$41,672",2.1,4,224,30,36,3663,108,184
+Audi,A4 3.0 4dr,Wagon,Asia,All,"$55,613","$50,603",4.2,8,278,23,29,5152,117,190
+Volkswagen,Passat GLS 4dr,Wagon,Europe,Rear,"$69,298","$62,547",5.7,8,366,13,21,5996,126,189
+Mercedes-Benz,S500 4dr,Hybrid,USA,Front,"$75,317","$67,134",5.5,8,333,14,23,6142,123,188
+Volkswagen,Passat GLS 4dr,Sedan,USA,All,"$50,272","$44,659",2.8,6,201,28,36,3722,114,188
+Ford,Explorer,Sedan,Asia,All,"$67,020","$61,443",5.3,8,325,17,25,5589,120,187
+Audi,A41.8T converti,Wagon,Europe,All,"$40,801","$35,529",1.6,4,175,33,39,3817,111,178
+Chevrolet,Corvette 2dr,Sedan,Asia,Rear,"$40,026","$35,798",1.7,4,150,30,38,3137,108,180
+Toyota,Land Cruiser,Truck,Asia,Front,"$52,283","$47,989",4.3,8,265,22,28,5058,119,183
+Nissan,350Z coupe 2dr,Truck,Europe,Rear,"$59,840","$52,374",3.2,6,272,23,28,4775,120,185
+BMW,325i 4dr,Sedan,Europe,Rear,"$49,023","$45,174",3.3,6,235,26,35,4786,115,188
+Acura,NSX coupe 2dr,Wagon,Europe,Front,"$62,054","$54,265",4.1,8,284,22,30,5145,123,186
+Chevrolet,Tahoe,Wagon,USA,Rear,"$47,417","$41,241",2.4,4,182,29,35,3535,113,181
+Audi,A6 3.0 Quattro,SUV,Asia,Front,"$52,415","$46,425",2.5,6,208,28,35,3561,112,179
+Nissan,Sentra 1.8 4dr,Truck,Asia,All,"$50,076","$44,162",3.7,6,238,24,32,4323,114,184
+Chevrolet,Tahoe,Sedan,USA,Front,"$69,173","$62,679",4.9,8,322,16,21,6008,125,189
+Audi,A41.8T converti,Wagon,Europe,All,"$72,069","$62,893",4.3,8,359,17,22,5453,120,188
+Honda,Civic DX 2dr,Sedan,USA,Rear,"$49,827","$44,605",2.9,6,253,28,35,4219,112,184
+Honda,CR-V LX,Truck,USA,Rear,"$59,101","$52,244",3.5,6,251,23,29,4373,117,185
+Volkswagen,Jetta GL 4dr,Sedan,USA,All,"$53,826","$47,023",2.4,4,238,29,37,4318,118,181
+Chevrolet,Impala 4dr,SUV,Asia,Rear,"$42,488","$37,002",1.9,4,169,31,37,3599,110,184
+Honda,Element DX,Truck,USA,Front,"$69,684","$61,217",5.0,8,302,16,21,5239,120,191
+Audi,A41.8T converti,SUV,Asia,All,"$54,776","$49,742",2.8,6,286,26,32,4069,115,183
+Volkswagen,Golf GLS 4dr,Sedan,Asia,Rear,"$55,104","$48,015",2.4,4,237,26,31,4631,119,185
+Audi,A6 3.0 Quattro,Hybrid,Asia,All,"$59,638","$53,061",4.6,8,304,22,28,5412,124,191
+Volkswagen,Beetle GLS 2dr,Hybrid,Europe,Front,"$63,149","$55,145",4.3,8,284,20,27,5589,120,188
+Chevrolet,Impala 4dr,Sedan,Asia,Front,"$62,068","$55,058",4.4,8,303,22,31,4922,117,187
+Nissan,Pathfinder,Sedan,Asia,Rear,"$44,613","$40,502",2.6,6,205,28,35,3672,111,180
+Toyota,RAV4,Sedan,Europe,Front,"$49,296","$44,576",2.6,6,184,28,35,3862,111,184
+Mercedes-Benz,SL500 convertible,Sedan,Asia,All,"$54,104","$48,371",2.6,6,278,26,35,4525,119,180
+Nissan,Maxims SE 4dr,Sedan,USA,Front,"$50,669","$44,631",2.4,4,230,30,39,4092,116,179
+Ford,Mustang 2dr,Sports,USA,All,"$73,452","$66,638",4.5,8,366,20,28,5496,122,187
+Audi,A4 3.0 4dr,Wagon,Asia,All,"$78,878","$70,391",5.3,8,407,14,22,6488,131,193
+Ford,Mustang 2dr,Wagon,Europe,Front,"$66,773","$60,473",4.8,8,298,19,26,5323,118,188
+Nissan,350Z coupe 2dr,Wagon,USA,Rear,"$69,515","$61,134",5.1,8,354,17,24,5618,123,187
+Volkswagen,Passat GLS 4dr,SUV,Europe,Front,"$50,926","$45,770",3.4,6,225,25,30,4786,121,190
+Mercedes-Benz,S500 4dr,Sedan,Europe,All,"$66,039","$60,845",4.5,8,357,18,23,6002,126,186
+Mercedes-Benz,C230 Sport 2dr,SUV,USA,All,"$57,246","$52,442",3.2,6,269,25,33,4959,119,187
+Acura,MDX,Sedan,Europe,Front,"$60,659","$55,945",3.9,6,288,21,29,4633,114,180
+Mercedes-Benz,SL500 convertible,Sedan,USA,Rear,"$53,865","$48,312",3.7,6,245,24,29,4923,116,187
+Toyota,RAV4,Truck,Europe,Rear,"$47,715","$43,879",2.4,4,235,30,35,3917,114,184
+Mercedes-Benz,E320 4dr,Sedan,USA,All,"$60,706","$55,797",3.3,6,261,26,32,4902,117,188
+Nissan,Pathfinder,SUV,Asia,All,"$86,161","$75,193",5.8,8,412,13,19,5952,123,182
+Acura,MDX,SUV,USA,Rear,"$58,658","$51,406",2.7,6,269,28,33,4405,117,182
+Nissan,Sentra 1.8 4dr,Wagon,USA,Front,"$47,794","$42,994",2.2,4,247,27,33,3966,114,186
+Nissan,Pathfinder,Sedan,USA,All,"$68,668","$59,763",3.4,6,317,25,34,5004,122,181
+BMW,530i 4dr,SUV,USA,All,"$73,112","$67,696",5.1,8,390,18,26,5815,127,192
+Acura,MDX,SUV,Europe,Rear,"$61,154","$54,457",4.2,8,262,21,29,5234,121,187
+Nissan,Maxims SE 4dr,Sports,Asia,Front,"$73,038","$65,030",4.6,8,355,20,25,5557,124,188
+BMW,545iA 4dr,SUV,USA,Rear,"$51,995","$46,758",2.4,4,261,29,36,3864,112,178
+BMW,545iA 4dr,Wagon,Europe,Front,"$64,716","$58,420",4.3,8,294,21,26,4748,116,187
+Acura,TL 4dr,Sports,Asia,Front,"$63,435","$57,053",3.0,6,289,26,32,4652,118,187
+Ford,Taurus SE,SUV,Asia,Front,"$64,281","$57,961",5.3,8,335,16,23,5552,122,184
+Volkswagen,Jetta GL 4dr,SUV,Asia,All,"$60,510","$53,495",4.4,8,297,21,27,5157,119,189
+Toyota,Corolla CE 4dr,Hybrid,Asia,Rear,"$56,636","$51,985",2.5,6,264,25,34,4271,114,189
+Volkswagen,Touareg V6,Sedan,USA,Rear,"$43,209","$39,503",1.9,4,206,28,34,3354,112,182
+Mercedes-Benz,S500 4dr,Sedan,USA,Front,"$39,500","$36,152",1.8,4,172,33,42,3674,114,180
+Toyota,RAV4,Wagon,Europe,All,"$56,169","$51,139",3.2,6,294,26,35,4403,115,187
+Mercedes-Benz,E320 4dr,Truck,Europe,All,"$55,622","$49,807",2.8,6,224,27,33,4724,121,186
+Nissan,350Z coupe 2dr,Hybrid,Europe,Rear,"$64,741","$59,517",4.4,8,321,21,27,5130,122,183
+Audi,A4 3.0 Quattro,Wagon,Asia,All,"$58,620","$51,387",3.8,6,273,21,30,5205,121,187
+Acura,RSX Type S 2dr,Sedan,Asia,All,"$45,951","$41,743",2.8,6,230,29,36,3848,112,186
+Toyota,Camry LE 4dr,SUV,USA,Front,"$48,486","$44,427",2.3,4,215,29,38,3809,112,180
+Toyota,Corolla CE 4dr,Wagon,Asia,All,"$43,365","$38,469",2.2,4,206,31,39,4071,114,180
+Nissan,350Z coupe 2dr,Sedan,Asia,Front,"$76,754","$70,894",5.4,8,401,17,26,6611,128,189
+Ford,Explorer,Sedan,Asia,Rear,"$49,993","$44,502",2.7,6,242,25,32,4349,114,185
+BMW,325Ci 2dr,Truck,Europe,All,"$77,010","$68,219",4.5,8,349,17,25,5961,128,186
+Nissan,350Z coupe 2dr,SUV,Europe,Rear,"$77,690","$70,947",5.2,8,366,19,24,6300,126,192
+Honda,Civic DX 2dr,Sedan,USA,Rear,"$63,313","$58,465",4.3,8,287,20,25,4902,118,188
+BMW,330i 4dr,SUV,Asia,All,"$71,057","$64,279",5.4,8,367,18,25,6284,129,190
+Acura,NSX coupe 2dr,Sedan,Asia,All,"$53,880","$49,573",3.3,6,236,27,36,4867,118,180
+BMW,545iA 4dr,SUV,USA,Rear,"$69,750","$64,100",5.8,8,356,15,21,6209,125,182
+Ford,Taurus SE,SUV,Asia,All,"$47,647","$43,403",2.2,4,228,28,35,3933,115,183
+BMW,330i 4dr,SUV,Asia,Front,"$37,610","$34,170",2.0,4,160,30,38,3124,105,181
+Acura,3.5 RL 4dr,Sedan,Europe,Front,"$72,513","$64,912",4.5,8,368,18,26,5423,119,182
+Ford,Focus ZX3 2dr,Sports,USA,All,"$74,514","$66,089",5.7,8,349,14,19,5973,125,190
+Volkswagen,Jetta GL 4dr,Sedan,USA,Rear,"$79,596","$70,974",5.2,8,400,18,26,6460,131,193
+Toyota,Prius 4dr,Hybrid,USA,All,"$46,948","$43,057",1.9,4,179,30,37,3455,110,183
+Toyota,RAV4,Sedan,USA,All,"$43,727","$40,042",2.8,6,222,26,34,3797,110,181
+Mercedes-Benz,C240 4dr,Sedan,Europe,Rear,"$86,848","$76,082",5.7,8,418,12,19,5876,126,188
+Volkswagen,Touareg V6,Truck,Europe,Rear,"$43,103","$38,517",2.7,6,200,29,35,4396,119,187
+Volkswagen,Beetle GLS 2dr,Sedan,Asia,Front,"$72,176","$63,263",5.0,8,333,19,24,5301,118,188
+BMW,325Ci 2dr,Hybrid,Asia,Rear,"$69,072","$62,452",5.2,8,375,18,26,5618,123,191
+Toyota,Prius 4dr,SUV,Asia,Front,"$66,476","$59,195",3.8,6,338,22,29,4792,115,184
+Acura,TSX 4dr,Hybrid,Asia,Rear,"$53,207","$47,649",3.3,6,254,25,34,4986,117,185
+Chevrolet,Malibu 4dr,SUV,Europe,All,"$53,346","$48,394",3.6,6,257,25,30,4874,117,187
+Chevrolet,Impala 4dr,Truck,USA,Front,"$54,830","$49,268",2.6,6,226,27,33,4089,115,183
+Ford,Mustang 2dr,Sedan,Europe,Front,"$67,697","$60,706",5.5,8,363,14,21,5587,124,184
+Toyota,Land Cruiser,Hybrid,Asia,Front,"$61,109","$55,856",3.6,6,299,24,30,4671,120,183
+Toyota,Corolla CE 4dr,SUV,Europe,All,"$78,888","$71,583",5.5,8,397,17,23,5730,127,188
+Chevrolet,TrailBlazer,Sedan,USA,All,"$40,484","$35,657",2.1,4,174,30,38,3827,110,179
+Toyota,Camry LE 4dr,Hybrid,USA,All,"$78,043","$68,214",5.9,8,345,17,25,6512,129,188
+BMW,530i 4dr,Sedan,Europe,All,"$57,283","$51,832",3.6,6,301,22,29,5244,118,185
+Honda,Element DX,Sedan,Europe,All,"$53,283","$48,374",1.8,4,226,30,39,3611,110,185
+Audi,A6 3.0 Quattro,Sports,Europe,Front,"$41,410","$37,864",1.8,4,202,31,38,3405,111,184
+Volkswagen,Touareg V6,Sedan,Asia,All,"$67,972","$60,286",4.9,8,361,18,27,5430,121,188
+Mercedes-Benz,C240 4dr,Sedan,Europe,Front,"$54,222","$49,176",4.5,8,278,22,28,5346,122,189
+Ford,Mustang 2dr,Sedan,Europe,All,"$73,623","$64,068",5.1,8,362,15,20,6191,128,188
+Honda,Element DX,Truck,Europe,Rear,"$40,383","$36,619",2.1,4,179,30,37,3604,110,180
+Chevrolet,Malibu 4dr,SUV,USA,Front,"$42,286","$38,179",1.8,4,186,31,38,3944,116,188
+Volkswagen,Beetle GLS 2dr,Sedan,USA,Rear,"$55,183","$49,173",3.8,6,277,22,31,4458,116,181
+Toyota,Corolla CE 4dr,Hybrid,Asia,Front,"$55,900","$49,203",3.3,6,229,23,29,4654,114,189
+Mercedes-Benz,SL500 convertible,Truck,Asia,Rear,"$57,970","$52,091",3.6,6,292,22,28,4818,121,181
+Toyota,Land Cruiser,Sedan,USA,All,"$72,684","$65,506",6.0,8,370,14,23,6505,129,193
+Acura,NSX coupe 2dr,Sedan,USA,All,"$83,848","$72,931",5.9,8,443,15,21,6581,131,188
+Acura,RSX Type S 2dr,Sedan,USA,All,"$70,017","$64,787",5.7,8,391,17,25,6075,127,186
+Mercedes-Benz,C230 Sport 2dr,Sedan,Europe,Front,"$70,356","$61,573",5.0,8,352,18,23,5386,120,189
+Mercedes-Benz,C240 4dr,Sedan,Europe,Rear,"$58,593","$53,734",3.2,6,255,27,34,4463,113,186
+Chevrolet,TrailBlazer,Sedan,USA,All,"$56,339","$49,638",3.4,6,233,23,28,4948,122,185
+Mercedes-Benz,C240 4dr,Sedan,Europe,Rear,"$65,541","$58,350",4.0,8,349,23,30,5211,124,191
+BMW,745Li 4dr,SUV,Europe,Rear,"$80,618","$73,029",5.3,8,390,17,25,5840,124,185
+Toyota,Camry LE 4dr,Hybrid,Asia,All,"$45,695","$40,043",1.9,4,161,31,37,3708,113,184
+Honda,Accord LX 2dr,Hybrid,USA,All,"$58,480","$54,103",3.5,6,263,24,33,4819,116,184
+Nissan,Sentra 1.8 4dr,Sports,USA,Rear,"$44,808","$40,889",2.0,4,158,32,40,3468,110,181
+Mercedes-Benz,C240 4dr,Sedan,Europe,All,"$68,784","$61,432",3.9,6,343,20,25,4847,117,189
+Ford,Focus ZX3 2dr,Sedan,USA,All,"$75,913","$68,724",5.6,8,406,15,24,6692,131,185
+Acura,TL 4dr,Wagon,Asia,All,"$78,063","$69,530",5.0,8,378,19,25,6311,128,183
+BMW,330i 4dr,Sports,Asia,Front,"$57,566","$53,219",2.6,6,261,27,35,4759,120,184
+Volkswagen,Jetta GL 4dr,Sedan,Asia,Rear,"$81,963","$75,324",5.9,8,441,15,24,6312,129,186
+Nissan,Pathfinder,Truck,USA,Rear,"$58,266","$53,510",4.5,8,280,20,28,5559,121,181
+Honda,Civic DX 2dr,Wagon,USA,Front,"$46,341","$42,389",1.6,4,220,31,39,4024,114,184
+Nissan,Sentra 1.8 4dr,Truck,USA,Rear,"$47,654","$42,849",2.7,6,207,29,35,3657,109,180
+Mercedes-Benz,E320 4dr,Sports,USA,All,"$55,389","$48,903",2.7,6,243,25,32,4171,116,179
+Chevrolet,Corvette 2dr,Sedan,USA,Rear,"$56,390","$49,319",1.9,4,235,30,39,3475,111,178
+Acura,3.5 RL 4dr,Sedan,Asia,All,"$86,507","$75,985",5.8,8,437,11,17,6174,126,182
+Acura,MDX,Truck,Europe,Front,"$59,829","$54,700",3.7,6,280,22,30,5325,123,188
+Volkswagen,Passat GLS 4dr,Truck,Asia,All,"$76,491","$68,857",5.5,8,362,17,23,5721,123,190
+Chevrolet,Tahoe,SUV,USA,Rear,"$51,969","$47,506",3.0,6,213,24,31,4257,112,185
+Toyota,Camry LE 4dr,SUV,Asia,Rear,"$55,652","$50,662",2.2,4,259,28,37,4354,117,181
+Audi,A41.8T converti,Sedan,USA,Rear,"$58,404","$52,369",3.7,6,306,22,29,4548,116,189
+BMW,745Li 4dr,Wagon,USA,Front,"$42,856","$39,508",2.1,4,216,28,33,3788,110,184
+Acura,MDX,Hybrid,Asia,Front,"$61,138","$55,820",3.7,6,269,24,33,5081,122,188
+Ford,Focus ZX3 2dr,Sedan,USA,Rear,"$68,615","$59,901",5.6,8,348,17,24,5630,125,189
+Acura,MDX,Sedan,Europe,All,"$59,813","$53,759",3.9,6,274,23,31,4540,117,190
+Nissan,Sentra 1.8 4dr,Sedan,USA,Front,"$68,275","$61,444",4.3,8,342,19,28,5409,120,190
+Acura,3.5 RL 4dr,Hybrid,Europe,Rear,"$55,750","$51,572",2.3,4,248,29,38,4095,114,189
+Acura,MDX,Wagon,Europe,Rear,"$43,104","$39,282",1.8,4,164,31,37,3086,107,183
+Audi,A6 3.0 Quattro,Wagon,USA,Front,"$48,471","$42,495",2.1,4,194,27,35,3884,116,183
+Audi,A6 3.0 Quattro,Sedan,Asia,Front,"$65,804","$60,287",4.2,8,347,20,25,5651,120,181
+Honda,Civic DX 2dr,Sedan,Europe,Front,"$35,040","$31,595",2.0,4,163,30,37,3480,108,185
+Toyota,Prius 4dr,Sedan,Asia,All,"$55,697","$51,524",3.3,6,240,23,29,4088,112,184
+Ford,Explorer,SUV,Europe,All,"$68,315","$61,353",4.0,8,336,21,28,5078,118,181
+Acura,RSX Type S 2dr,Truck,USA,Rear,"$54,063","$49,991",3.3,6,236,24,29,4943,119,185
+Acura,3.5 RL 4dr,Wagon,USA,Front,"$49,957","$43,924",2.3,4,212,26,31,4281,114,180
+BMW,745Li 4dr,Hybrid,Europe,All,"$61,756","$54,280",2.8,6,272,26,35,4275,113,178
+Audi,A4 3.0 Quattro,Hybrid,USA,Front,"$74,174","$65,344",5.7,8,385,17,22,5907,128,189
+Ford,F150 Regular,Sedan,Europe,Rear,"$58,451","$53,146",4.6,8,282,20,27,4810,116,180
+Volkswagen,Passat GLS 4dr,Wagon,USA,All,"$58,481","$51,362",3.8,6,281,21,29,5370,124,183
+Honda,Accord LX 2dr,Truck,Asia,All,"$40,073","$35,844",1.7,4,153,32,40,3907,110,188
+Toyota,Land Cruiser,Wagon,USA,All,"$84,578","$76,461",6.0,8,422,13,22,6839,133,188
+Chevrolet,Impala 4dr,Sedan,Asia,Rear,"$60,992","$54,275",4.6,8,307,21,28,5188,123,185
+Toyota,Prius 4dr,Sedan,USA,Front,"$51,503","$47,650",3.0,6,283,27,34,4275,112,184
+Nissan,350Z coupe 2dr,SUV,Asia,All,"$68,473","$62,819",5.5,8,369,16,21,5875,128,183
+Acura,TSX 4dr,Hybrid,USA,Rear,"$50,236","$44,380",2.7,6,255,24,31,4382,115,186
+Honda,Civic DX 2dr,Sedan,Asia,Front,"$60,173","$54,848",4.0,8,327,22,28,5072,122,183
+Nissan,Sentra 1.8 4dr,Sedan,Europe,Rear,"$67,716","$60,361",4.4,8,332,22,27,5525,122,184
+Ford,Taurus SE,Sports,Europe,Front,"$50,115","$45,273",2.6,6,252,25,31,4103,116,187
+Chevrolet,Impala 4dr,Sedan,Asia,Rear,"$79,361","$69,625",5.9,8,363,13,22,6177,128,186
+Audi,A4 3.0 Quattro,Sedan,USA,Front,"$72,818","$63,504",4.9,8,341,16,24,5814,121,190
+Honda,Accord LX 2dr,SUV,Asia,All,"$53,533","$46,883",4.1,8,268,20,29,4817,120,185
+Honda,Pilot EX,Sports,USA,Front,"$46,972","$42,743",2.4,4,207,28,36,4044,115,185
+Acura,TSX 4dr,Sedan,Europe,Rear,"$42,132","$38,527",1.8,4,192,30,39,3818,112,181
+Mercedes-Benz,S500 4dr,Wagon,USA,Rear,"$52,978","$47,591",3.0,6,260,25,32,4274,116,179
+Honda,Pilot EX,Sedan,Europe,Front,"$69,437","$64,263",4.9,8,330,20,26,5273,119,188
+BMW,325i 4dr,Truck,USA,All,"$51,317","$47,437",2.8,6,229,29,37,4207,117,183
+Chevrolet,Impala 4dr,Sedan,USA,All,"$67,836","$60,637",4.0,8,330,23,28,5068,121,189
+Chevrolet,Impala 4dr,Sedan,USA,Front,"$61,911","$55,455",4.8,8,319,18,24,5603,122,186
+BMW,325i 4dr,Truck,Asia,Front,"$37,902","$32,970",2.1,4,163,32,37,3658,111,178
+Volkswagen,Golf GLS 4dr,Sedan,Asia,Rear,"$69,766","$63,764",4.6,8,343,19,25,5740,127,185
+BMW,530i 4dr,SUV,Europe,All,"$45,436","$41,379",2.0,4,182,30,36,3596,113,188
+BMW,745Li 4dr,SUV,Europe,Front,"$74,636","$68,603",5.8,8,391,13,22,6744,128,184
+Chevrolet,Malibu 4dr,Wagon,Asia,All,"$64,182","$56,092",3.7,6,323,21,29,5464,125,190
+Toyota,Prius 4dr,Sedan,Europe,Front,"$47,174","$41,584",2.3,4,178,31,39,4142,115,179
+Chevrolet,TrailBlazer,Sports,Asia,Front,"$60,079","$52,814",3.1,6,279,26,32,5022,123,189
+Mercedes-Benz,C240 4dr,Sedan,USA,All,"$58,606","$51,266",3.4,6,272,23,30,4822,121,189
+Acura,RSX Type S 2dr,SUV,Europe,Front,"$78,242","$70,063",4.9,8,393,15,22,6174,127,190
+Nissan,Sentra 1.8 4dr,SUV,Europe,Front,"$74,825","$67,314",4.9,8,353,18,23,6000,129,190
+Toyota,Prius 4dr,Sedan,Asia,Rear,"$68,386","$61,993",4.3,8,342,18,23,5620,126,192
+Audi,A6 3.0 Quattro,Sedan,Europe,Front,"$51,575","$45,998",2.1,4,248,28,37,4073,116,179
+Nissan,Altima 2.5 S,Sedan,Europe,Front,"$46,280","$41,627",2.3,4,205,29,35,3934,113,188
+Acura,RSX Type S 2dr,Sedan,USA,Front,"$50,642","$45,558",2.0,4,217,28,33,4105,112,185
+Mercedes-Benz,S500 4dr,Truck,Europe,Rear,"$69,608","$60,762",4.1,8,322,20,25,4822,119,189
+Mercedes-Benz,SL500 convertible,Sedan,USA,All,"$87,282","$75,972",5.5,8,416,13,19,6288,127,185
+Audi,A6 3.0 Quattro,Sedan,Asia,Rear,"$53,006","$46,671",3.5,6,232,24,33,4449,116,189
+Toyota,Camry LE 4dr,Wagon,Europe,Rear,"$42,579","$37,582",2.3,4,166,27,32,3868,110,184
+Volkswagen,Jetta GL 4dr,Sedan,USA,All,"$75,068","$66,571",4.1,8,340,21,30,5696,124,192
+BMW,530i 4dr,Sedan,Asia,Rear,"$67,917","$62,217",5.2,8,350,15,23,5624,120,181
+Toyota,Land Cruiser,Truck,Europe,All,"$66,122","$60,991",4.9,8,349,20,29,5573,124,182
+Volkswagen,Passat GLS 4dr,Truck,Asia,Rear,"$70,893","$62,829",5.5,8,340,14,21,6355,131,193
+Mercedes-Benz,SL500 convertible,SUV,Europe,All,"$64,993","$57,465",2.8,6,282,27,34,4825,120,185
+Chevrolet,Tahoe,Truck,Asia,Front,"$53,640","$49,516",2.5,6,236,29,38,4544,119,184
+Acura,TL 4dr,Sedan,Asia,Rear,"$81,621","$71,287",5.5,8,372,18,25,6253,128,190
+Audi,A4 3.0 4dr,Sedan,USA,Rear,"$61,005","$56,155",4.5,8,304,21,29,5368,123,187
+Acura,NSX coupe 2dr,Sedan,Asia,Rear,"$43,087","$39,170",3.0,6,211,24,30,4403,115,186
+Ford,Mustang 2dr,Hybrid,Europe,Rear,"$65,593","$58,198",4.9,8,329,16,23,5954,128,188
+Ford,Explorer,Sedan,Europe,Front,"$64,923","$59,460",5.2,8,320,19,26,5747,125,187
+Toyota,Prius 4dr,Sedan,USA,Rear,"$68,797","$63,473",4.3,8,328,20,29,5046,120,182
+Mercedes-Benz,E320 4dr,Sedan,Europe,Front,"$64,053","$58,063",4.6,8,329,18,26,5837,127,188
+Mercedes-Benz,SL500 convertible,Sedan,Europe,Front,"$65,083","$57,412",3.3,6,299,22,28,5084,118,184
+BMW,545iA 4dr,SUV,Europe,Front,"$55,191","$49,769",4.0,8,270,21,30,4894,121,183
+BMW,330i 4dr,SUV,Asia,Front,"$60,381","$53,639",3.9,6,313,23,32,5194,118,185
+BMW,545iA 4dr,SUV,Asia,All,"$68,304","$60,955",5.3,8,362,16,24,5792,126,189
+Chevrolet,Tahoe,Sedan,Europe,All,"$69,018","$63,814",5.3,8,334,17,23,5412,121,189
+Nissan,Sentra 1.8 4dr,SUV,USA,Rear,"$78,749","$68,526",5.3,8,381,16,24,5712,127,183
+Honda,Element DX,Sedan,Asia,All,"$39,696","$36,658",1.6,4,173,32,38,3746,113,180
+Nissan,Maxims SE 4dr,Sedan,USA,All,"$73,601","$64,127",4.9,8,327,20,28,5774,127,185
+Acura,TSX 4dr,Sedan,Europe,Rear,"$68,787","$61,500",4.9,8,367,19,28,5714,125,192
+Nissan,Pathfinder,Truck,Europe,Rear,"$67,056","$58,441",4.6,8,340,18,27,5665,125,189
+Chevrolet,Corvette 2dr,Sedan,Asia,Rear,"$65,707","$60,391",4.9,8,303,21,26,5226,119,180
+Acura,3.5 RL 4dr,Sports,Europe,All,"$73,832","$66,257",5.3,8,382,18,25,6148,124,186
+Nissan,Maxims SE 4dr,Sedan,Asia,All,"$53,391","$48,899",3.7,6,269,23,31,4873,118,182
+Chevrolet,Malibu 4dr,Sedan,Europe,Rear,"$67,630","$62,415",3.8,6,320,22,27,4954,116,180
+Honda,Pilot EX,SUV,Europe,Front,"$55,490","$49,403",2.1,4,252,27,34,3691,114,186
+Nissan,Pathfinder,Sedan,Asia,Rear,"$59,878","$54,706",3.3,6,302,22,30,4859,120,183
+Chevrolet,Corvette 2dr,Sedan,Asia,Front,"$68,363","$60,977",4.4,8,365,18,24,5950,127,189
+BMW,530i 4dr,Sedan,Asia,Front,"$66,689","$61,303",5.0,8,364,16,23,5382,121,191
+Mercedes-Benz,E320 4dr,SUV,Europe,Rear,"$45,939","$41,641",2.6,6,187,29,38,4136,114,179
+BMW,545iA 4dr,SUV,Europe,Rear,"$50,034","$44,094",2.2,4,204,30,35,3911,113,183
+Mercedes-Benz,S500 4dr,Sedan,USA,Rear,"$70,543","$63,519",4.5,8,361,18,25,5243,120,183
+Audi,A4 3.0 4dr,Sedan,Asia,All,"$42,967","$38,229",1.6,4,176,30,37,3717,113,185
+Audi,A41.8T converti,Sedan,Europe,Front,"$43,468","$38,628",2.4,4,209,27,36,3689,115,184
+Audi,A4 3.0 Quattro,Sedan,Europe,All,"$52,110","$45,749",1.7,4,210,32,40,3434,109,178
+Honda,Accord LX 2dr,Sports,Asia,All,"$54,140","$49,096",2.3,4,218,29,35,4281,116,184
+BMW,325Ci 2dr,SUV,USA,Rear,"$53,589","$47,504",2.4,4,245,26,35,3898,111,184
+Mercedes-Benz,C230 Sport 2dr,Wagon,Asia,All,"$54,396","$47,412",3.3,6,260,24,30,4375,115,183
+Chevrolet,Corvette 2dr,Sedan,USA,Rear,"$62,652","$55,390",3.4,6,266,24,32,4324,116,181
+Acura,TL 4dr,SUV,Europe,Front,"$63,705","$57,171",5.4,8,334,19,26,5902,124,185
+Chevrolet,Malibu 4dr,Truck,USA,Rear,"$58,771","$52,281",3.8,6,258,25,31,5184,120,184
+Acura,MDX,Truck,Europe,All,"$66,451","$58,714",4.8,8,315,17,22,5816,127,188
+Ford,F150 Regular,SUV,Asia,All,"$43,276","$38,541",2.1,4,206,27,32,3457,113,187
+Chevrolet,Tahoe,Sedan,Asia,Rear,"$52,189","$48,271",2.6,6,272,24,33,4735,119,180
+Nissan,Altima 2.5 S,Wagon,Asia,Rear,"$58,665","$53,643",4.7,8,306,21,29,5897,126,192
+Nissan,350Z coupe 2dr,Sports,USA,All,"$42,046","$36,989",1.8,4,160,33,42,3226,106,179
+Toyota,Corolla CE 4dr,Sedan,Europe,Front,"$55,645","$50,629",3.7,6,285,25,34,4533,116,188
+BMW,325Ci 2dr,Sedan,Asia,Front,"$67,606","$59,765",4.2,8,297,21,30,5487,122,184
+Acura,3.5 RL 4dr,Sedan,Asia,Rear,"$59,302","$53,617",4.2,8,279,23,28,4577,116,188
+Acura,RSX Type S 2dr,Sedan,Europe,Front,"$36,442","$32,639",1.7,4,163,31,36,3968,112,178
+BMW,530i 4dr,Sedan,Asia,All,"$57,462","$52,973",3.0,6,250,24,33,4883,120,189
+Honda,Element DX,Sedan,Europe,Rear,"$61,174","$55,985",4.4,8,273,19,24,5378,121,184
+Toyota,RAV4,Sedan,Europe,All,"$44,496","$38,794",2.3,4,219,26,34,3635,113,184
+Honda,Civic DX 2dr,Sports,Europe,All,"$68,086","$59,604",4.7,8,355,17,26,5539,122,183
+Honda,Element DX,SUV,Europe,Front,"$74,860","$66,504",4.9,8,386,16,21,6003,128,192
+Honda,Pilot EX,Sedan,Europe,Rear,"$70,434","$63,330",5.9,8,372,15,21,5757,127,185
+BMW,325Ci 2dr,Sports,USA,Rear,"$43,764","$38,822",2.5,6,178,29,38,3730,112,185
+Honda,CR-V LX,Truck,Asia,Front,"$65,066","$57,924",5.2,8,331,18,27,6159,127,190
+Nissan,350Z coupe 2dr,Sedan,USA,All,"$70,032","$62,540",3.9,6,320,20,28,5304,120,191
+Audi,A6 3.0 Quattro,Sedan,Asia,All,"$52,476","$48,404",3.2,6,254,24,31,4763,120,181
+Ford,Explorer,SUV,USA,All,"$54,668","$48,625",2.1,4,221,30,37,4304,117,189
+Acura,MDX,Sedan,Europe,All,"$79,060","$69,729",4.8,8,375,19,27,5315,124,183
+Acura,RSX Type S 2dr,Sedan,Asia,Rear,"$51,807","$45,066",2.6,6,245,29,37,4006,116,186
+Ford,Focus ZX3 2dr,Sedan,Asia,Rear,"$62,112","$57,470",3.2,6,297,25,33,4719,116,179
+BMW,325Ci 2dr,Sedan,USA,Front,"$40,669","$35,955",1.9,4,178,32,39,4112,111,185
+Chevrolet,Malibu 4dr,Sedan,USA,Front,"$80,423","$71,805",5.1,8,395,16,24,6135,126,189
+BMW,325i 4dr,SUV,Asia,Rear,"$65,450","$58,944",5.0,8,354,16,21,5572,126,183
+Acura,3.5 RL 4dr,Sedan,USA,Rear,"$60,309","$55,384",4.8,8,290,20,29,5465,125,185
+Acura,RSX Type S 2dr,Sedan,USA,All,"$56,970","$51,388",2.9,6,266,24,33,4584,116,184
+Ford,Focus ZX3 2dr,Sedan,USA,All,"$56,969","$51,565",2.4,4,256,26,32,4542,115,189
+Honda,Accord LX 2dr,SUV,Europe,Front,"$66,303","$60,210",4.4,8,307,19,25,5758,123,189
+BMW,330i 4dr,Truck,Europe,Rear,"$54,896","$48,531",3.8,6,245,23,32,4313,114,186
+Mercedes-Benz,SL500 convertible,Sedan,USA,Front,"$59,443","$52,649",2.4,4,255,25,30,3863,114,186
+Ford,Explorer,Sports,USA,Rear,"$65,191","$58,143",4.6,8,304,21,28,5055,121,187
+Nissan,Altima 2.5 S,Wagon,Europe,All,"$83,808","$73,150",6.0,8,431,11,18,6194,128,191
+Acura,TSX 4dr,Sedan,Europe,Front,"$68,748","$62,245",4.9,8,311,17,22,5458,120,182
+Ford,Explorer,SUV,Asia,Front,"$72,551","$66,132",4.9,8,355,16,23,5517,122,183
+BMW,530i 4dr,Sedan,Asia,Rear,"$73,778","$65,528",5.8,8,351,14,22,5886,122,190
+Acura,RSX Type S 2dr,Sedan,Europe,All,"$46,220","$42,252",2.5,6,180,30,39,4145,114,186
+Chevrolet,Impala 4dr,Sports,USA,Front,"$62,903","$57,079",4.1,8,344,19,28,5394,123,186
+Ford,Mustang 2dr,Sedan,USA,All,"$68,451","$62,472",5.9,8,371,13,18,6379,129,192
+Toyota,Prius 4dr,SUV,USA,Front,"$38,282","$35,289",2.3,4,172,27,34,3556,114,187
+Acura,TL 4dr,Sedan,USA,All,"$71,042","$62,432",4.7,8,367,17,23,5275,120,190
+BMW,325Ci 2dr,Sedan,Asia,Rear,"$61,856","$56,345",4.2,8,324,18,24,5118,119,183
+Audi,A4 1.8T 4dr,Sedan,Europe,Front,"$63,700","$57,227",4.2,8,316,23,30,5649,121,188
+Mercedes-Benz,C240 4dr,Sedan,USA,Front,"$74,573","$68,856",4.7,8,377,19,25,5316,119,189
+Volkswagen,Beetle GLS 2dr,Sedan,Asia,All,"$82,003","$72,637",5.7,8,433,12,17,6800,131,186
+Honda,Civic DX 2dr,Hybrid,USA,All,"$70,842","$64,219",5.0,8,339,20,25,5347,121,183
+Volkswagen,Golf GLS 4dr,Sedan,Europe,Front,"$39,277","$34,693",1.8,4,153,32,39,3733,109,184
+BMW,530i 4dr,Sedan,Asia,Rear,"$70,782","$63,833",5.4,8,354,16,22,5740,124,186
+Nissan,Altima 2.5 S,SUV,Europe,All,"$54,522","$49,851",2.6,6,227,25,30,4488,115,181
+Nissan,Sentra 1.8 4dr,Sedan,Europe,All,"$56,647","$50,763",3.3,6,298,22,27,4853,122,190
+Audi,A6 3.0 Quattro,Sedan,Asia,All,"$59,813","$54,918",3.6,6,285,23,31,4931,118,190
+Honda,Civic DX 2dr,Sedan,Asia,Front,"$64,997","$58,512",3.7,6,283,23,31,5258,123,181
+Toyota,Land Cruiser,Sedan,Asia,Front,"$47,837","$43,401",3.5,6,237,22,27,4473,114,181
+Audi,A4 3.0 4dr,Sedan,Asia,Front,"$75,937","$66,388",5.7,8,395,14,21,6302,130,192
+Volkswagen,Touareg V6,Sedan,Asia,Front,"$71,432","$65,881",4.7,8,333,18,27,5666,123,185
+Audi,A4 3.0 4dr,Truck,Asia,Rear,"$69,483","$61,567",4.4,8,315,21,30,5011,121,190
+Volkswagen,Passat GLS 4dr,SUV,Asia,Rear,"$42,227","$38,642",1.8,4,201,31,36,3586,114,180
+Acura,MDX,Sedan,USA,Front,"$64,139","$58,185",5.6,8,337,17,22,5738,123,187
+Nissan,350Z coupe 2dr,Sedan,Europe,Rear,"$70,662","$63,712",5.6,8,372,14,19,6406,129,184
+Acura,3.5 RL 4dr,Hybrid,Asia,All,"$71,889","$62,865",5.0,8,319,18,25,5942,124,185
+Mercedes-Benz,C230 Sport 2dr,SUV,USA,All,"$51,808","$47,228",1.6,4,226,32,40,3366,111,184
+Honda,Civic DX 2dr,Sedan,USA,All,"$50,259","$46,263",1.9,4,234,29,34,4310,115,182
+Toyota,Camry LE 4dr,Hybrid,USA,Front,"$50,420","$45,741",2.6,6,218,25,30,3842,111,184
+Volkswagen,Golf GLS 4dr,Truck,Europe,All,"$53,070","$48,808",2.2,4,244,29,35,4428,116,185
+Toyota,Land Cruiser,Wagon,Asia,Rear,"$56,001","$51,425",3.4,6,268,24,31,4336,118,180
+Volkswagen,Passat GLS 4dr,Sedan,USA,Front,"$78,932","$70,465",5.7,8,398,16,21,5775,121,186
+BMW,330i 4dr,Sedan,Europe,Rear,"$59,850","$55,199",3.7,6,296,20,26,4568,115,187
+Audi,A41.8T converti,Sports,Europe,All,"$45,593","$42,132",1.7,4,188,30,39,3666,111,179
+Mercedes-Benz,SL500 convertible,Truck,Europe,All,"$46,035","$40,739",2.8,6,198,26,31,3648,113,180
+Nissan,Sentra 1.8 4dr,Sedan,USA,All,"$46,592","$42,153",1.8,4,227,32,37,4016,111,187
+Volkswagen,Jetta GL 4dr,Sedan,Asia,Front,"$45,599","$41,881",1.8,4,176,29,35,3524,113,182
+Toyota,Prius 4dr,Sedan,USA,Rear,"$50,767","$46,247",2.8,6,238,27,34,4439,115,187
+Mercedes-Benz,S500 4dr,Wagon,USA,Front,"$52,272","$46,467",2.8,6,230,27,32,4030,113,181
+Chevrolet,TrailBlazer,Sedan,Asia,Front,"$65,454","$59,543",5.1,8,321,16,25,5570,124,182
+Chevrolet,Tahoe,Sedan,Asia,All,"$84,998","$76,258",5.9,8,432,12,17,6106,124,185
+Acura,RSX Type S 2dr,Sedan,Asia,Front,"$49,574","$45,543",3.2,6,230,27,36,4394,115,184
+Nissan,Altima 2.5 S,Sedan,Europe,Front,"$57,597","$51,373",3.5,6,275,26,34,4350,119,184
+BMW,545iA 4dr,Sedan,Asia,All,"$69,520","$63,079",5.3,8,373,16,24,5955,127,183
+Toyota,RAV4,SUV,USA,Front,"$58,122","$51,716",2.8,6,228,29,38,4735,116,182
+Audi,A6 3.0 Quattro,Sedan,Asia,All,"$51,636","$45,431",2.3,4,219,30,37,4477,119,185
+Audi,A4 1.8T 4dr,Sedan,USA,All,"$75,675","$67,398",5.4,8,360,14,19,5873,124,191
+Toyota,RAV4,Sedan,Europe,All,"$47,270","$42,946",1.8,4,178,32,37,3934,114,188
+Honda,CR-V LX,Sedan,USA,All,"$56,443","$51,410",4.3,8,277,21,29,5499,122,184
+BMW,325i 4dr,Sedan,USA,Front,"$59,942","$54,349",4.1,8,318,19,28,5455,123,189
+Mercedes-Benz,C230 Sport 2dr,Sedan,Asia,All,"$47,283","$43,319",3.1,6,215,27,32,4271,118,184
+Volkswagen,Golf GLS 4dr,SUV,Asia,All,"$45,867","$41,977",3.0,6,218,24,29,4074,111,185
+Honda,Civic DX 2dr,Sedan,USA,Front,"$68,803","$60,601",5.0,8,310,16,23,5288,120,189
+Volkswagen,Touareg V6,SUV,Asia,Front,"$55,650","$50,275",2.0,4,226,31,37,4106,117,189
+Volkswagen,Beetle GLS 2dr,SUV,Europe,Rear,"$49,425","$44,507",2.6,6,225,28,36,4263,112,182
+Honda,Civic DX 2dr,Hybrid,Europe,Front,"$68,790","$61,333",4.8,8,334,18,26,5742,121,186
+Acura,TL 4dr,Sedan,Asia,Front,"$56,387","$50,289",4.0,8,250,23,29,5021,122,181
+Chevrolet,Malibu 4dr,Wagon,Europe,Rear,"$44,658","$41,171",2.2,4,199,30,35,3932,111,188
+Volkswagen,Touareg V6,Sedan,Asia,Front,"$72,693","$63,867",5.5,8,343,18,25,5786,126,188
+Honda,Pilot EX,Sports,USA,Front,"$59,974","$54,901",3.3,6,290,23,30,4764,117,183
+Honda,Element DX,Wagon,USA,Front,"$75,826","$67,067",5.2,8,381,14,22,6108,123,191
+Ford,F150 Regular,Sedan,Europe,Front,"$82,443","$72,696",5.1,8,376,19,26,6338,131,185
+Acura,3.5 RL 4dr,Sedan,Asia,Rear,"$68,895","$60,967",4.3,8,325,21,27,4889,119,184
+Nissan,Altima 2.5 S,Sedan,Asia,Front,"$54,911","$49,005",3.8,6,251,21,26,4675,115,181
+Ford,F150 Regular,Sedan,Europe,Front,"$74,199","$68,638",5.9,8,405,14,20,6131,129,188
+Ford,Explorer,Truck,USA,Rear,"$50,023","$45,261",2.2,4,192,28,37,3955,113,185
+Toyota,Land Cruiser,Wagon,Europe,All,"$71,996","$64,149",4.8,8,334,18,26,5686,126,188
+Chevrolet,Malibu 4dr,Hybrid,USA,Rear,"$58,537","$52,874",2.4,4,259,28,35,4204,117,182
+Honda,CR-V LX,SUV,Asia,All,"$57,695","$50,590",3.1,6,296,22,31,4704,116,186
+Chevrolet,Malibu 4dr,Sports,USA,Rear,"$60,810","$55,201",3.0,6,268,26,33,4685,121,182
+BMW,530i 4dr,Truck,Europe,Rear,"$73,771","$67,032",5.8,8,347,13,18,6174,124,191
+Toyota,Camry LE 4dr,Sedan,Asia,Front,"$71,346","$64,942",5.9,8,369,16,21,5722,125,190
+Nissan,Sentra 1.8 4dr,SUV,Europe,All,"$60,179","$54,545",2.4,4,260,26,31,4365,118,183
+Chevrolet,TrailBlazer,Sports,Europe,Front,"$43,800","$39,142",1.7,4,180,33,40,3741,114,179
+Audi,A41.8T converti,Sedan,USA,All,"$76,927","$68,108",4.8,8,376,20,29,6057,124,189
+Volkswagen,Touareg V6,Wagon,Europe,Rear,"$55,470","$49,247",3.4,6,249,25,30,4393,116,185
+BMW,745Li 4dr,SUV,USA,Rear,"$43,097","$37,920",2.0,4,196,29,38,3693,110,188
+Acura,TL 4dr,Wagon,Asia,All,"$73,647","$64,489",4.6,8,366,16,23,5890,122,185
+Nissan,Altima 2.5 S,Sedan,USA,Front,"$68,588","$60,317",4.0,8,298,20,29,5227,124,191
+BMW,530i 4dr,Sedan,Asia,Front,"$76,953","$71,166",5.9,8,391,14,21,6049,125,186
+Volkswagen,Beetle GLS 2dr,Sedan,USA,Front,"$59,818","$52,866",2.6,6,263,24,31,4270,114,185
+Toyota,Land Cruiser,Wagon,Europe,Front,"$59,204","$54,088",3.4,6,301,24,32,5302,124,186
+Volkswagen,Beetle GLS 2dr,Sports,USA,Rear,"$55,048","$50,535",4.0,8,267,24,31,4933,119,187
+Ford,Focus ZX3 2dr,Sedan,USA,Rear,"$76,529","$68,045",5.1,8,370,19,26,6363,130,194
+Volkswagen,Passat GLS 4dr,Sedan,Asia,Rear,"$65,427","$59,351",4.0,8,317,23,29,5318,121,186
+Ford,Focus ZX3 2dr,Truck,Europe,Rear,"$73,874","$68,150",4.3,8,358,18,23,5659,125,186
+Toyota,RAV4,Sedan,USA,Rear,"$48,495","$44,506",2.6,6,212,25,33,3714,114,187
+Mercedes-Benz,C230 Sport 2dr,Wagon,Europe,Front,"$69,397","$64,253",5.3,8,350,18,26,6301,126,192
+Ford,Explorer,Sedan,USA,Front,"$60,059","$52,535",3.5,6,306,22,30,5103,120,182
+Acura,TL 4dr,Sedan,USA,Front,"$45,717","$42,264",2.2,4,178,29,35,3982,111,178
+Volkswagen,Golf GLS 4dr,Sedan,Europe,Front,"$60,416","$55,192",4.5,8,302,21,28,5043,122,188
+Volkswagen,Beetle GLS 2dr,Sedan,USA,Rear,"$44,364","$39,999",2.6,6,219,28,33,4174,116,181
+Acura,TL 4dr,Sports,Europe,Rear,"$51,831","$46,908",2.0,4,233,30,39,3475,111,188
+Audi,A4 3.0 4dr,Sedan,USA,Rear,"$77,122","$67,425",5.4,8,416,17,24,5945,123,187
+Honda,Pilot EX,Sedan,Asia,All,"$63,666","$58,797",3.6,6,305,24,30,5143,121,190
+Mercedes-Benz,S500 4dr,Truck,Europe,Front,"$65,380","$58,592",4.9,8,309,17,24,5251,118,190
+Nissan,Pathfinder,Sedan,USA,Front,"$49,885","$44,239",2.9,6,235,27,34,4393,118,187
+Ford,Focus ZX3 2dr,Sedan,USA,Rear,"$72,293","$63,126",5.1,8,343,19,25,6012,124,187
+Acura,MDX,Truck,Asia,Front,"$34,911","$31,076",2.1,4,156,31,39,3246,109,186
+Toyota,Land Cruiser,Sedan,Europe,Front,"$53,949","$47,480",3.2,6,272,24,32,4286,117,188
+Ford,Explorer,SUV,USA,Rear,"$74,813","$68,898",5.9,8,373,14,19,5842,123,187
+Honda,Accord LX 2dr,Truck,Asia,All,"$79,722","$72,016",5.1,8,378,19,24,6340,127,192
+Toyota,Corolla CE 4dr,Sedan,USA,All,"$61,971","$56,023",3.8,6,305,20,28,4926,119,184
+BMW,545iA 4dr,Sedan,Europe,All,"$56,737","$49,681",3.1,6,255,23,32,4426,115,186
+Volkswagen,Touareg V6,SUV,USA,Rear,"$73,182","$67,103",5.4,8,394,14,21,6293,129,184
+BMW,745Li 4dr,Wagon,USA,Front,"$64,129","$58,800",4.0,8,326,23,32,5313,121,187
+Ford,Explorer,Sedan,USA,Rear,"$58,568","$53,099",4.9,8,304,20,27,5342,123,184
+Honda,Accord LX 2dr,Sedan,USA,Rear,"$64,345","$59,370",4.9,8,308,21,29,5508,121,189
+Mercedes-Benz,SL500 convertible,Truck,Asia,Front,"$49,833","$45,603",1.7,4,216,29,34,3396,112,178
+Ford,Explorer,Wagon,Asia,All,"$43,301","$37,733",2.2,4,210,31,36,3604,108,183
+Acura,MDX,Sedan,Europe,All,"$74,381","$67,012",4.5,8,347,21,30,5323,121,186
+Chevrolet,Malibu 4dr,Sedan,Asia,Rear,"$51,622","$45,918",2.3,4,203,28,33,4392,116,186
+Ford,Taurus SE,Sedan,Asia,All,"$48,106","$42,541",2.7,6,212,25,33,4120,117,184
+Volkswagen,Passat GLS 4dr,Sports,Europe,Rear,"$65,369","$59,121",5.8,8,342,16,25,5548,125,182
+Volkswagen,Jetta GL 4dr,SUV,Asia,Rear,"$66,007","$60,540",4.1,8,338,19,26,5024,122,181
+Ford,Taurus SE,Sedan,Asia,Front,"$70,593","$64,501",4.9,8,364,18,23,5609,122,189
+Toyota,Camry LE 4dr,Wagon,Europe,Front,"$57,804","$52,458",4.1,8,281,20,26,5480,125,191
+Chevrolet,TrailBlazer,Truck,Europe,Front,"$60,319","$53,640",4.0,8,251,22,27,4529,118,185
+Acura,MDX,Sedan,Europe,Rear,"$56,266","$50,788",2.0,4,242,27,34,3958,112,187
+Ford,Focus ZX3 2dr,Wagon,USA,Front,"$55,689","$51,542",3.1,6,242,26,35,4874,122,185
+Toyota,Corolla CE 4dr,SUV,USA,All,"$45,969","$41,168",2.8,6,192,28,35,4525,116,179
+Volkswagen,Golf GLS 4dr,Wagon,Europe,All,"$48,770","$42,613",3.3,6,230,27,33,4323,116,184
+Volkswagen,Golf GLS 4dr,SUV,Europe,Rear,"$78,280","$68,858",5.1,8,398,16,24,6028,129,188
+Honda,Element DX,Sedan,Europe,Rear,"$52,092","$45,785",3.2,6,249,23,28,4165,117,182
+Ford,Mustang 2dr,Wagon,USA,Front,"$55,849","$49,178",3.6,6,231,25,34,4852,116,186
+Chevrolet,Tahoe,SUV,USA,Rear,"$57,738","$52,363",3.3,6,295,23,31,5191,120,181
